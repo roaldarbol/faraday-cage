@@ -18,5 +18,5 @@ A lightweight, cheap Faraday cage for electrophysiology.
 # Assembly Guide
 
 
-## Contributions
+# Contributions
 [Sergio Rossoni](https://orcid.org/0000-0003-0709-9173) developed the entire design. 
