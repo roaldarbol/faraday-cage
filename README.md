@@ -21,4 +21,4 @@ A lightweight, cheap Faraday cage for electrophysiology.
 
 # Contributions
 [Sergio Rossoni](https://orcid.org/0000-0003-0709-9173) developed the entire design. 
-Estelle Moubarak and [Mikkel Roald-Arboel](https://orcid.org/0000-0002-9998-0058) reproduced and refined it.
+Estelle Moubarak and [Mikkel Roald-Arbøl](https://orcid.org/0000-0002-9998-0058) reproduced and refined it.
