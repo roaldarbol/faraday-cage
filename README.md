@@ -9,7 +9,7 @@ A lightweight, cheap Faraday cage for electrophysiology.
 | Bag of tapping screws     | 1        | RS, [link](https://uk.rs-online.com/web/p/connecting-components/4667304) |
 | Bag of M4 T-slot nuts     | 10       | RS, [link](https://uk.rs-online.com/web/p/connecting-components/7675525) |
 | Bag of M4 screws          | 1        | RS, [link](https://uk.rs-online.com/web/p/machine-screws/0560697) |
-| Bag of two-way connectors | 1        | RS, [link](https://uk.rs-online.com/web/p/connecting-components/1809137) or [new alternative](https://uk.rs-online.com/web/p/connecting-components/3901798/)|
+| Two-way connectors | 2        | [Print your own](https://github.com/roaldarbol/faraday-cage/blob/main/corner-bracket.stl) or [RS](https://uk.rs-online.com/web/p/connecting-components/1809137)|
 | Bag of M4 washers         | 2        | Rapid Online, [link](https://www.rapidonline.com/Catalogue/Search?Query=Toolcraft%20194725%20Steel%20Washers%20%20Form%20A%20DIN%209021%20M4%20Pack%20Of%20100) |
 | Clamps                    | 2        | Goodhand UK, [link](https://www.goodhanduk.co.uk/Catalogue/Standard-Parts/Clamping-Levers-Tension-Levers-Cam-Levers/Cam-Levers/K0005-Cam-Lever-In-Aluminium-Sizes-M3-M8/K0005-Cam-Lever-In-Aluminium-Steel/K0005-Cam-Levers-Male-Sizes-M3-M10/K0005-Cam-Levers-Size-M4/Cam-Lever-In-Aluminium-Steel-Size-9-M4X15-K00059501104X15) |
 | Copper wire mesh          | 6m+ ^     | The Mesh Company, [link](https://themeshcompany.com/product/pure-copper-99-9-woven-wire-mesh-0-263mm-hole-0-16mm-wire-60-lpi/?attribute_pa_sheet-size=5m-x-1000mm) |
